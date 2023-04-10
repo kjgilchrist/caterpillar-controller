@@ -1,0 +1,22 @@
+Caterpillar Testing
+
+0 0 0 0 x0 0 0 0 0 0 
+0 0 15 0 0 8 x0 0 5 x0 0 6 0 0 6 0 0 6 0 0 8 0 0 9 0 0 7 x0 0 11 0 0 8 x0 0 921 0 0 924 0 0 926 0 0 927 0 0 927 0 0 927 0 0 923 0 0 924 0 0 923 0 0 17 x0 0 5 x0 0 7 0 0 4 x0 0 6 0 0 7 0 0 866 0 0 150 x0 0 9 x0 0 11 0 0 788 0 0 189 x0 0 773 0 0 14 x0 0 793 0 0 16 x0 0 13 x0 0 799 0 0 482 x0 0 8 x0 0 9 0 0 6 x0 0 8 0 0 5 x0 0 9 0 0 6 x0 0 8 0 0 7 x0 0 9 0 0 6 x0 0 7 0 0 8 0 0 7 x0 0 5 x0 0 7 0 0 5 x
+140 149 6 805 681 11 859 708 14 873 734 16 598 545 12 1023 148 11 1023 112 7 1023 174 10 1021 257 7 1023 216 5 1023 1021 17 1021 1022 21 1023 1023 17 1023 1023 14 1023 1023 13 1023 1023 16 1023 1023 15 1023 302 8 1023 319 935 1023 299 5 1023 322 10 1023 200 11 1023 325 925 1023 611 859 x1023 671 20 1023 570 15 1023 458 10 27 85 8 369 339 16 48 132 5 88 152 6 804 714 12 883 762 13 926 803 14 610 566 13 
+923 815 21 
+lllrllxxx
+xxxxxlxxxxxlxxxxxlxxllxxxxxxlxxxxllxxxxxxllrrrrrrrrrrrrrrrrrrrrrrlllllllllllllllllllllllrllllllllrlllllrlllllrrrrrrrrrrrrrrrrxxxxxxxlxxxxxlxllxxxxxxxxxxxxxxxllxxxxxxxxlxxxxxlxxxlxxxxxxxxxxxxxxxxlxxxxxlxxxxxxxxxxxxxxxxlxxxxxxlllll
+lllxlllxxlrlllxxlrlllllllrlllllllllrllllllxxllllxxxxxxxxxxlxxlrxxlllllrlrlrlrllllllrlllrllllllrlllllllrlllllllrlllrllllrlllllllllllllrlllllllllllllllllr
+xxxxxxxxxxxrrrrrrrrrrlllllxlxxlxlxxlxxxxxxxxxxxxxrrrrrrrrrrrrrrrxxxxxxxlxxllxxlllxlllllllllllllllllllrlllllxxxxxxxxxxxxxxxxrrrrxlxlrxlrxxlrlllllrlllllllllrllrllrxxxxxxxxxxrrrrrrrrrrrrrrrrrxrrrrrrxrrllllxlllxxllrlrlrlrlrlrlrllrlrlrlrlrllllllllllll
+ccccccccccccccccccccccccccccccccxxccccccllcccccccccccccccccccccccccccccc
+vvvvvvvvvvvvvvvvvvvvvxxxxxxxxxxxvxxxxxxxxxxxvxvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+bbbbbbbbbbbbbbbbbbbbbbbbbbxxxbxxxbbxbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx
+ooooooooooooooooooooooooooooooooooooooooooooooooo
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx
+ggggggggggggggggggggxxxxxxxxxxxxgggggggggggggggggggggggg
+uuuuuuuuuuuuuuuuuuuuxxxxxxxuxxuxxxxxxxuuuuuuuuuuuuuuuuuuuuuuuux
+xxxxxx
